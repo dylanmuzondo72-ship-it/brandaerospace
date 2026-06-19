@@ -29,3 +29,7 @@ Upload the whole folder to Netlify, Vercel, cPanel, or GitHub Pages. Do not uplo
 ## Notes
 
 Before launch, confirm final contact email, phone number, official domain, and whether the client wants the blog to be active immediately or hidden until articles are written.
+
+
+## Placeholder images
+The site currently uses generated placeholder visuals instead of cropped PDF screenshots. Replace these with client-approved original images when supplied.
