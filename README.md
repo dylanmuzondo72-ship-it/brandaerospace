@@ -1,29 +1,17 @@
-# Opuntia Global Inc. Website
+# Brand Aerospace Website
 
-Static website built from the Opuntia Global profile text with grammar cleaned for web use.
+Static corporate website for Brand Aerospace.
 
-## Included
-- About / Who We Are
-- Vision and Mission
-- Values
-- Services
-- Recent Projects
-- Projects Gallery
-- Contact details
-- Floating WhatsApp button
-- WhatsApp quotation form
-- SEO basics: title, meta description, sitemap, robots.txt
+## Final content rules applied
 
-## Excluded
-- Company document scans
-- Certificates
-- Tax clearance papers
-- CR6/director paperwork
-- Recommendation letter scans
-- Bank confirmation letter
+- Main navigation: Home, Traditional Marketing, Digital Marketing, Supplies, Blog, Request Quote.
+- Wording has been rebuilt from the 2025 company profile.
+- The old website concept is used only for structure/navigation direction.
+- Prices are not displayed publicly.
+- Company documents, certificates, bank letters and reference letters are not displayed.
+- Updated realistic placeholder images are included in `assets/img`.
+- Quote form opens a prepared WhatsApp enquiry message.
 
-## WhatsApp number
-Main WhatsApp CTA uses: +263 715 379 413
+## Deploy
 
-
-Owner requested update: project amounts removed, Muchekayaora Clinic removed, and Sacred Heart of Jesus Secondary School removed from the projects section.
+Upload the folder to Vercel, Netlify or any static hosting service.
