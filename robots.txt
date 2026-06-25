@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.brandaerospace.net/sitemap.xml
+
+Sitemap: https://www.opuntiaglobal.com/sitemap.xml
